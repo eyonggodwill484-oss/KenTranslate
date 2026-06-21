@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 210" width="64" height="64" role="img" aria-label="KenTranslate">
+  <title>KenTranslate</title>
+  <!-- Orange speech bubble -->
+  <path d="M128,8 C182,8 228,44 228,90 C228,136 182,170 128,170 L95,163 L48,208 L82,155 C48,143 28,118 28,90 C28,44 74,8 128,8 Z" fill="#F07814"/>
+  <!-- Navy speech bubble -->
+  <path d="M108,92 C108,52 144,18 188,18 C232,18 270,52 270,92 C270,132 232,166 188,166 L215,158 L252,204 L212,153 C177,164 108,132 108,92 Z" fill="#012D5A"/>
+  <!-- White K mark -->
+  <text x="154" y="126" text-anchor="middle" fill="#FFFFFF" font-size="100" font-weight="900" font-family="Arial, Helvetica, sans-serif">K</text>
+</svg>
