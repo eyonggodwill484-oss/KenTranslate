@@ -345,10 +345,14 @@ export default function AuthPage() {
             {/* Forgot password link */}
             {mode === "login" && (
               <div style={{ textAlign: "right", marginBottom: 18, marginTop: -6 }}>
-                <button type="button" style={{
-                  background: "none", border: "none", color: "#F07814",
-                  fontSize: 12.5, fontWeight: 600, cursor: "pointer", padding: 0,
-                }}>
+                <button
+                  type="button"
+                  onClick={() => router.push("/auth/forgot-password")}
+                  style={{
+                    background: "none", border: "none", color: "#F07814",
+                    fontSize: 12.5, fontWeight: 600, cursor: "pointer", padding: 0,
+                  }}
+                >
                   Forgot password?
                 </button>
               </div>
